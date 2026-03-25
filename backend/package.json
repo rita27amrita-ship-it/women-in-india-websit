@@ -1,0 +1,12 @@
+{
+  "name": "amrita-portfolio-backend",
+  "version": "1.0.0",
+  "description": "Backend for Amrita's premium portfolio with chatbot and contact API.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
