@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Print message
-        run: echo "CI/CD Pipeline Running Successfully!"
+        run: echo "CI/CD Pipeline Running Successfully"
